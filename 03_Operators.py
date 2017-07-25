@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 print("Enter two integers")
 x = int(input("Enter x:"))
 y = int(input("Enter y:"))
